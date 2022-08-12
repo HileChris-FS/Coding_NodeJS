@@ -1,5 +1,5 @@
-#Node JS app
-##To run app
+# Node JS app
+## To run app
 ``` shell
 npm i
 ``` 
